@@ -5,3 +5,12 @@ config.properties
 
 
 jdbc-projects/Library-Management-System/resources/
+
+
+db.properties
+bin/
+target/
+*.class
+.settings/
+.project
+.classpath
